@@ -1,7 +1,7 @@
 ## Olá, eu sou a Bárbara Diogo!
 
-- 🔭 A procura da primeira oportunidade na área de Dados
-- 🌱 Estudando Python para tratamento de Dados
+- 🔭 Atuando hands on em Análise de Dados JR (projetos pessoais)
+- 🌱 Me aperfeiçoando em Python e SQL para tratamento de Dados
 - 📫 Contate-me no e-mail: apadiroba@gmail.com
 - 😄 Pronouns: ela/dela
 
