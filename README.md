@@ -1,7 +1,7 @@
 ## Olá, eu sou a Bárbara Diogo!
 
 - 🔭 Atuando hands on em Análise de Dados JR (projetos pessoais)
-- 🌱 Me aperfeiçoando em Python e SQL para tratamento de Dados
+- 🌱 Me aperfeiçoando em  Power BI, Python e SQL para tratamento de Dados
 - 📫 Contate-me no e-mail: apadiroba@gmail.com
 - 😄 Pronouns: ela/dela
 
