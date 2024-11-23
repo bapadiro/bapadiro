@@ -1,7 +1,8 @@
 ## Olá, eu sou a Bárbara Diogo!
 
-- 🔭 Profissional na área de Data Analytcs
-- 🌱 1% melhor a cada dia em Excel, Power BI, SQL e Python
+- 🔭 Profissional Data Analytics
+- 🌱 1% melhor a cada dia:
+- Tecnologias: Excel, Power BI, SQL e Python
 - O PODER DA REPETIÇÃO!
 - 📫 Contate-me no e-mail: apadiroba@gmail.com
 - 😄 Pronouns: ela/dela
