@@ -1,9 +1,9 @@
 ## Olá, eu sou a Bárbara Diogo!
 Profissional Data Analytics
- * Por que: Se existe um problema, existe uma solução!
- * Como: Visão do Negócio, Análise Exploratória de Dados, Modelos, Storytelling = Data Science ❤️
- * O que: Python, SQL, Excel, Power BI, Tableau
- * 
+ * Por que: Se existe um problema, existe informações e soluções!
+ * Como: Visão do Negócio, Análise Exploratória de Dados, Dashs Storytelling, Modelos Preditos = Data Analytics and Science ❤️
+ * O que: Excel, Power BI, PTT, Consultas em SQL, Python.
+   
 🌱 1% melhor a cada dia
 
 📫 Contate-me no e-mail: apadiroba@gmail.com
